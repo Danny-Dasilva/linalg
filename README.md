@@ -1,2 +1,2 @@
 # linalg
-liberal algebra repo
+linear algebra repo
